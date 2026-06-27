@@ -1,0 +1,1 @@
+To jest przykladowy plik stworzony na potrzeby LAB GitHub
